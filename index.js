@@ -1,3 +1,4 @@
+<body>
 <script>
 let botaoCor = document.getElementById("botaoMudaCor");
 botaoCor.addEventListener("click", function() {
